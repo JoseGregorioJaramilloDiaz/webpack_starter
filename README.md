@@ -1,4 +1,4 @@
-# WebPack Starter
+# TodoTareas
 
 Este es el proyecto inicial para crear aplicaciones utilizando webpack
 
